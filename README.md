@@ -68,14 +68,6 @@ I am actively looking for:
 - Full-Stack / MERN Stack Developer Intern roles
 - Web Developer Intern opportunities
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojadepu17&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojadepu17&layout=compact)
-
----
 
 ## Connect
 
